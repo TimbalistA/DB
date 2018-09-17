@@ -1,5 +1,4 @@
-# DB
----
+
 Laboratory work #2
 ---
 Titlu
