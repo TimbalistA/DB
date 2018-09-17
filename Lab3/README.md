@@ -1,10 +1,9 @@
-# DB
----
-Laboratory work #2
+
+Laboratory work #3
 ---
 Titlu
 ---
-Crearea si intretinerea bazei de date
+Crearea si modificarea tabelelor in SQL Server
 
 ---
 Sarcini
