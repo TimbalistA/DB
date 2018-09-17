@@ -3,7 +3,7 @@ Laboratory work #3
 ---
 Titlu
 ---
-Crearea si modificarea tabelelor in SQL Server
+Crearea si modificarea tabelelor in SQL Server Management Studio
 
 ---
 Sarcini
