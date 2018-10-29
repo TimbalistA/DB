@@ -1,8 +1,13 @@
 Laboratory work #4
+--
 Tasks
+--
 Nr.5: Display the list of students whose names end with u
+--
 SQL Query:
+
 ![task5](https://user-images.githubusercontent.com/36602388/47678673-01369b00-dbcb-11e8-9c41-1ef8219f8112.jpg)
+
 Result
 
 Nr.26: Find name,surname,address of students and teachers that live on 31 August street
