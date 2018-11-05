@@ -30,11 +30,11 @@ Task 1 using CASE
 
 SQL Query:
 
-![task35](https://user-images.githubusercontent.com/36602388/47679652-6e4b3000-dbcd-11e8-8af8-a8f986ce1799.jpg)
+![query3](https://user-images.githubusercontent.com/36602388/48029624-52103b80-e157-11e8-91d6-47f5317caf1c.jpg)
 
 Result
 
-![result35](https://user-images.githubusercontent.com/36602388/47679760-b1a59e80-dbcd-11e8-93cc-c905d1301db7.jpg)
+![result3](https://user-images.githubusercontent.com/36602388/48029626-52103b80-e157-11e8-97c0-f6738cf10bed.jpg)
 
 Task Nr.4:  
 --
@@ -42,9 +42,9 @@ TRY / CATCH / RAISERROR
 
 SQL Query:
 
-![task35](https://user-images.githubusercontent.com/36602388/47679652-6e4b3000-dbcd-11e8-8af8-a8f986ce1799.jpg)
+![query4](https://user-images.githubusercontent.com/36602388/48029625-52103b80-e157-11e8-8038-d30cb51bbdd4.jpg)
 
 Result
 
-![result35](https://user-images.githubusercontent.com/36602388/47679760-b1a59e80-dbcd-11e8-93cc-c905d1301db7.jpg)
+![result4](https://user-images.githubusercontent.com/36602388/48029629-52a8d200-e157-11e8-8ea5-b772f1efaa64.jpg)
 
