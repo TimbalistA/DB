@@ -6,11 +6,11 @@ Complete the code...(using IF ELSE)
 
 SQL Query:
 
-![task5](https://user-images.githubusercontent.com/36602388/47678673-01369b00-dbcb-11e8-9c41-1ef8219f8112.jpg)
+![query1](https://user-images.githubusercontent.com/36602388/48029233-656ed700-e156-11e8-8023-8edc7f7df69c.jpg)
 
 Result
 
-![result5](https://user-images.githubusercontent.com/36602388/47679052-f0d2f000-dbcb-11e8-947e-d5382350e42a.jpg)
+![result1](https://user-images.githubusercontent.com/36602388/48029247-6c95e500-e156-11e8-9fc3-fbe95fc83505.jpg)
 
 Task Nr.2: 
 -- 
@@ -18,11 +18,11 @@ Show first 10...
 
 SQL Query:
 
-![task26](https://user-images.githubusercontent.com/36602388/47679593-40fe8200-dbcd-11e8-9e58-edfb2911e957.jpg)
+![query2](https://user-images.githubusercontent.com/36602388/48029239-6869c780-e156-11e8-9da4-a5e2649f485f.jpg)
 
 Result
 
-![result26](https://user-images.githubusercontent.com/36602388/47679497-0eed2000-dbcd-11e8-8dac-4a420a587816.jpg)
+![result2](https://user-images.githubusercontent.com/36602388/48029248-6c95e500-e156-11e8-9347-092a708081b0.jpg)
 
 Task Nr.3:  
 --
