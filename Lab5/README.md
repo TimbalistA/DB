@@ -14,7 +14,7 @@ Result
 
 Task Nr.2: 
 -- 
-Show first 10...
+Show first 10 marks where mark <>6 or <>8
 
 SQL Query:
 
