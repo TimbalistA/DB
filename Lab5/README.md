@@ -18,7 +18,7 @@ Show first 10 marks where mark <>6 or <>8
 
 SQL Query:
 
-
+![query2b](https://user-images.githubusercontent.com/36602388/48055526-7d774280-e1b8-11e8-9993-3ccee8ef38b7.jpg)
 
 Result
 
