@@ -18,11 +18,12 @@ Show first 10 marks where mark <>6 or <>8
 
 SQL Query:
 
-![query2](https://user-images.githubusercontent.com/36602388/48029239-6869c780-e156-11e8-9da4-a5e2649f485f.jpg)
+
 
 Result
 
-![result2](https://user-images.githubusercontent.com/36602388/48029248-6c95e500-e156-11e8-9347-092a708081b0.jpg)
+![result2b](https://user-images.githubusercontent.com/36602388/48055362-16598e00-e1b8-11e8-9b62-607886f74a47.jpg)
+
 
 Task Nr.3:  
 --
