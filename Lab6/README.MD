@@ -1,6 +1,6 @@
 Laboratory work #6
 
-Task Nr.1:
+Task Nr.1
 
 ![query1](https://user-images.githubusercontent.com/36602388/48738436-acca8c80-ec59-11e8-91cd-1abed545837a.jpg)
 
