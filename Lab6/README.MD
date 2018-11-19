@@ -17,3 +17,11 @@ Task Nr.4 - Initial :
 ![query4](https://user-images.githubusercontent.com/36602388/48738430-ab995f80-ec59-11e8-862f-cb61d22c9968.jpg)
 
 ![result4b](https://user-images.githubusercontent.com/36602388/48738650-5447bf00-ec5a-11e8-9cd7-9528891dc999.jpg)
+
+![query5](https://user-images.githubusercontent.com/36602388/48739636-392a7e80-ec5d-11e8-85dd-9cc93760225f.jpg)
+
+![result5](https://user-images.githubusercontent.com/36602388/48739634-3891e800-ec5d-11e8-87b2-bf3d6d6a4507.jpg)
+
+![query6](https://user-images.githubusercontent.com/36602388/48739637-392a7e80-ec5d-11e8-9c83-dccb8bd3045c.jpg)
+
+![query7](https://user-images.githubusercontent.com/36602388/48739638-392a7e80-ec5d-11e8-9d55-5924189af844.jpg)
