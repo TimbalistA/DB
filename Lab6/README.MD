@@ -1,9 +1,5 @@
 Laboratory work #6
 
-Task Nr.1:
-
-SQL Query:
-
 ![query1](https://user-images.githubusercontent.com/36602388/48738436-acca8c80-ec59-11e8-91cd-1abed545837a.jpg)
 
 Result
@@ -32,4 +28,4 @@ SQL Query:
 
 Result
 
-![result4b](https://user-images.githubusercontent.com/36602388/48738435-ac31f600-ec59-11e8-8c37-413930f9b121.jpg)
+![result4b](https://user-images.githubusercontent.com/36602388/48738650-5447bf00-ec5a-11e8-9cd7-9528891dc999.jpg)
