@@ -12,8 +12,10 @@ Task Nr.3:
 
 ![result3](https://user-images.githubusercontent.com/36602388/49038247-0f290d00-f1c5-11e8-9c4d-942577fa185d.jpg)
 
-Task Nr.4 - Initial :
+Task Nr.4:
 
+![result4a](https://user-images.githubusercontent.com/36602388/49038627-2c121000-f1c6-11e8-9169-a2cf6f6a595b.jpg)
+![result4b](https://user-images.githubusercontent.com/36602388/49038628-2c121000-f1c6-11e8-8a4f-01cbe1331ddd.jpg)
 
 Task Nr.5:
 
