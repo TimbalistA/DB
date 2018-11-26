@@ -23,6 +23,8 @@ Task Nr.5:
 
 Task Nr.6:
 
+![result6](https://user-images.githubusercontent.com/36602388/49039774-629d5a00-f1c9-11e8-9728-eea3cfc92584.jpg)
+
 Task Nr.7:
 
 
