@@ -30,3 +30,5 @@ Task Nr.7:
 ![result7](https://user-images.githubusercontent.com/36602388/49040198-8f05a600-f1ca-11e8-9b6a-fa83f0065b87.jpg)
 
 Task Nr.8:
+
+![result8](https://user-images.githubusercontent.com/36602388/49040780-261f2d80-f1cc-11e8-9780-a07dabbcdfd9.jpg)
