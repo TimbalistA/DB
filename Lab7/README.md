@@ -10,6 +10,7 @@ Task Nr.2:
 
 Task Nr.3:
 
+![result3](https://user-images.githubusercontent.com/36602388/49038247-0f290d00-f1c5-11e8-9c4d-942577fa185d.jpg)
 
 Task Nr.4 - Initial :
 
