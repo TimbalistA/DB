@@ -6,6 +6,7 @@ Task Nr.1:
 
 Task Nr.2:
 
+![result2](https://user-images.githubusercontent.com/36602388/49037416-d7b96100-f1c2-11e8-9cb0-754636df8ece.jpg)
 
 Task Nr.3:
 
