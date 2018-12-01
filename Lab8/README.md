@@ -30,6 +30,7 @@ Task Nr.3:
 
 Task Nr.4:
 
+I already mentioned all necessary instruction in previous queries
 
 Task Nr.5:
 
