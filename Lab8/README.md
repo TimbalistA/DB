@@ -22,6 +22,11 @@ DELETE:
 
 Task Nr.3:
 
+![result3](https://user-images.githubusercontent.com/36602388/49331779-458ecf80-f5ab-11e8-9771-9df199463b16.jpg)
+
+![result3a](https://user-images.githubusercontent.com/36602388/49331780-458ecf80-f5ab-11e8-9108-314be4ca09af.jpg)
+
+![result3b](https://user-images.githubusercontent.com/36602388/49331781-458ecf80-f5ab-11e8-8b96-37927402c3a2.jpg)
 
 Task Nr.4:
 
@@ -32,6 +37,6 @@ Task Nr.5:
 Task Nr.6:
 
 
-Task Nr.7:
+
 
 
