@@ -40,6 +40,7 @@ Task Nr.5:
 
 Task Nr.6:
 
+![result6](https://user-images.githubusercontent.com/36602388/49332252-935b0600-f5b2-11e8-84e9-f7ee850d20bb.jpg)
 
 
 
