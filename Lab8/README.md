@@ -6,7 +6,7 @@ Task Nr.1 Using Query:
 
 Task Nr.1 Using View Designer:
 
-
+![result1b](https://user-images.githubusercontent.com/36602388/49331043-cba51900-f59f-11e8-9b3e-da8b8534594b.jpg)
 
 Task Nr.2:
 
