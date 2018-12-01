@@ -34,6 +34,9 @@ I already mentioned all necessary instruction in previous queries
 
 Task Nr.5:
 
+![result5a](https://user-images.githubusercontent.com/36602388/49332160-9e149b80-f5b0-11e8-9f01-4d401794e85e.jpg)
+
+![result5b](https://user-images.githubusercontent.com/36602388/49332161-9e149b80-f5b0-11e8-8b2d-2cb89834db98.jpg)
 
 Task Nr.6:
 
