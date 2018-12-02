@@ -17,6 +17,17 @@ Task Nr.3:
 ![result3](https://user-images.githubusercontent.com/36602388/49337817-0c457680-f622-11e8-9645-af6092dae470.jpg)
 
 Task Nr.4:
+BEFORE CHANGING:
+
+![beforeresult4](https://user-images.githubusercontent.com/36602388/49338998-479c7100-f633-11e8-8a19-914c37c9809d.jpg)
+
+![beforeresult4b](https://user-images.githubusercontent.com/36602388/49338999-479c7100-f633-11e8-8f67-26e70c76583e.jpg)
+
+AFTER CHANGING:
+
+![query4](https://user-images.githubusercontent.com/36602388/49338996-4703da80-f633-11e8-9914-932d4161d52d.jpg)
+
+![result4](https://user-images.githubusercontent.com/36602388/49338997-479c7100-f633-11e8-88d6-cc358d841560.jpg)
 
 
 Task Nr.5:
