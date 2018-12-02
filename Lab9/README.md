@@ -14,6 +14,7 @@ Task Nr.2:
 
 Task Nr.3:
 
+![result3](https://user-images.githubusercontent.com/36602388/49337817-0c457680-f622-11e8-9645-af6092dae470.jpg)
 
 Task Nr.4:
 
