@@ -1,10 +1,9 @@
 Laboratory work #9
 
-Task Nr.1 FIRST EXERCISE:
+Task Nr.1 
 
 ![result1a](https://user-images.githubusercontent.com/36602388/49337178-f337c800-f617-11e8-8e56-174465924bb4.jpg)
 
-SECOND EXERCISE:
 
 ![result1b](https://user-images.githubusercontent.com/36602388/49337583-0ea5d180-f61e-11e8-9d79-49ef05e4c0bc.jpg)
 
@@ -39,7 +38,13 @@ Task Nr.5:
 
 ![result5](https://user-images.githubusercontent.com/36602388/49339832-0199da00-f640-11e8-9442-36dfc5620134.jpg)
 
-Task Nr.6:
+Task Nr.6 FIRST EXERCISE:
+
+![result6a](https://user-images.githubusercontent.com/36602388/49340022-ce0c7f00-f642-11e8-8843-bac17f4b2a14.jpg)
+
+SECOND EXERCISE:
+
+![result6b](https://user-images.githubusercontent.com/36602388/49340021-ce0c7f00-f642-11e8-96a6-8eb601520d9f.jpg)
 
 
 
