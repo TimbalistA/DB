@@ -52,6 +52,8 @@ Task Nr.7:
 
 Task Nr.8:
 
+![result8](https://user-images.githubusercontent.com/36602388/49340452-af10eb80-f648-11e8-97cf-e6f5682f245b.jpg)
+
 Task Nr.9:
 
 
