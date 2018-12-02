@@ -27,10 +27,13 @@ BEFORE CHANGING @Id_Profesor_Nou:
 
 AFTER CHANGING:
 
-![query4](https://user-images.githubusercontent.com/36602388/49338996-4703da80-f633-11e8-9914-932d4161d52d.jpg)
+![query4](https://user-images.githubusercontent.com/36602388/49339038-107a8f80-f634-11e8-90e7-7634431b388d.jpg)
 
 ![result4](https://user-images.githubusercontent.com/36602388/49338997-479c7100-f633-11e8-88d6-cc358d841560.jpg)
 
+Error message:
+
+![error4](https://user-images.githubusercontent.com/36602388/49339054-6f400900-f634-11e8-9ad9-ff567bb57bdf.jpg)
 
 Task Nr.5:
 
