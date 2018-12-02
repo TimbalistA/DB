@@ -46,7 +46,13 @@ SECOND EXERCISE:
 
 ![result6b](https://user-images.githubusercontent.com/36602388/49340021-ce0c7f00-f642-11e8-96a6-8eb601520d9f.jpg)
 
+Task Nr.7:
 
+![result7](https://user-images.githubusercontent.com/36602388/49340371-702e6600-f647-11e8-8a5e-b779f75f7f97.jpg)
+
+Task Nr.8:
+
+Task Nr.9:
 
 
 
