@@ -17,9 +17,11 @@ Task Nr.3:
 ![result3](https://user-images.githubusercontent.com/36602388/49337817-0c457680-f622-11e8-9645-af6092dae470.jpg)
 
 Task Nr.4:
-BEFORE CHANGING:
+BEFORE CHANGING @Id_Profesor_Vechi:
 
 ![beforeresult4](https://user-images.githubusercontent.com/36602388/49338998-479c7100-f633-11e8-8a19-914c37c9809d.jpg)
+
+BEFORE CHANGING @Id_Profesor_Nou:
 
 ![beforeresult4b](https://user-images.githubusercontent.com/36602388/49338999-479c7100-f633-11e8-8f67-26e70c76583e.jpg)
 
