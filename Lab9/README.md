@@ -48,11 +48,11 @@ SECOND EXERCISE:
 
 Task Nr.7:
 
-![result7](https://user-images.githubusercontent.com/36602388/49340371-702e6600-f647-11e8-8a5e-b779f75f7f97.jpg)
+![result7](https://user-images.githubusercontent.com/36602388/49340497-4fffa680-f649-11e8-8cc0-199accd76e17.jpg)
 
 Task Nr.8:
 
-![result8](https://user-images.githubusercontent.com/36602388/49340452-af10eb80-f648-11e8-97cf-e6f5682f245b.jpg)
+![result8](https://user-images.githubusercontent.com/36602388/49340498-4fffa680-f649-11e8-9184-449cacac6b50.jpg)
 
 Task Nr.9:
 
