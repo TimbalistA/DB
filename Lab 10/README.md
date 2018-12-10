@@ -6,6 +6,7 @@ Task Nr.1
 
 Task Nr.2:
 
+![sqlquery2](https://user-images.githubusercontent.com/36602388/49756230-74e7bf80-fcc2-11e8-8e4b-b82628a16d6b.jpg)
 
 Task Nr.3:
 
